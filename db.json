@@ -1,86 +1,86 @@
 {
-  othersData: {
-    company: "株式会社Breakfast",
-    department: "営業部",
-    rank: "副部長",
-    name: "Hoge Huga",
-    phone: "090-0000-0000",
-    mail: "hoge@huga.com",
+  "othersData": {
+    "company": "株式会社Breakfast",
+    "department": "営業部",
+    "rank": "副部長",
+    "name": "Hoge Huga",
+    "phone": "090-0000-0000",
+    "mail": "hoge@huga.com"
   },
-  accountData: {
-    company: "株式会社TestUser",
-    department: "開発部",
-    rank: "副部長",
-    name: "Test User",
-    phone: "090-1234-5678",
-    mail: "hoge@huga.com",
+  "accountData": {
+    "company": "株式会社TestUser",
+    "department": "開発部",
+    "rank": "副部長",
+    "name": "Test User",
+    "phone": "090-1234-5678",
+    "mail": "hoge@huga.com"
   },
-  othersList: [
+  "othersList": [
     {
-      othersId: "m8HmMRHRXi",
-      img: "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
-      name: "Breakfast",
-      company: "@bkristastucchio",
+      "othersId": "m8HmMRHRXi",
+      "img": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
+      "name": "Breakfast",
+      "company": "@bkristastucchio"
     },
     {
-      othersId: "DHp8dfcDi5",
-      img: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
-      name: "Burger",
-      company: "@rollelflex_graphy726",
+      "othersId": "DHp8dfcDi5",
+      "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+      "name": "Burger",
+      "company": "@rollelflex_graphy726"
     },
     {
-      othersId: "aAVQsgz2AC",
-      img: "https://images.unsplash.com/photo-1522770179533-24471fcdba45",
-      name: "Camera",
-      company: "@helloimnik",
+      "othersId": "aAVQsgz2AC",
+      "img": "https://images.unsplash.com/photo-1522770179533-24471fcdba45",
+      "name": "Camera",
+      "company": "@helloimnik"
     },
     {
-      othersId: "XWfh3ma6pV",
-      img: "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c",
-      name: "Coffee",
-      company: "@nolanissac",
+      "othersId": "XWfh3ma6pV",
+      "img": "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c",
+      "name": "Coffee",
+      "company": "@nolanissac"
     },
     {
-      othersId: "pQ8tRKMaFB",
-      img: "https://images.unsplash.com/photo-1533827432537-70133748f5c8",
-      name: "Hats",
-      company: "@hjrc33",
+      "othersId": "pQ8tRKMaFB",
+      "img": "https://images.unsplash.com/photo-1533827432537-70133748f5c8",
+      "name": "Hats",
+      "company": "@hjrc33"
     },
     {
-      othersId: "ZkLzFZ3hFk",
-      img: "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62",
-      name: "Honey",
-      company: "@arwinneil",
+      "othersId": "ZkLzFZ3hFk",
+      "img": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62",
+      "name": "Honey",
+      "company": "@arwinneil"
     },
     {
-      othersId: "iBMf9WA9Ym",
-      img: "https://images.unsplash.com/photo-1516802273409-68526ee1bdd6",
-      name: "Basketball",
-      company: "@tjdragotta",
+      "othersId": "iBMf9WA9Ym",
+      "img": "https://images.unsplash.com/photo-1516802273409-68526ee1bdd6",
+      "name": "Basketball",
+      "company": "@tjdragotta"
     },
     {
-      othersId: "6zuF9HfK47",
-      img: "https://images.unsplash.com/photo-1518756131217-31eb79b20e8f",
-      name: "Fern",
-      company: "@katie_wasserman",
+      "othersId": "6zuF9HfK47",
+      "img": "https://images.unsplash.com/photo-1518756131217-31eb79b20e8f",
+      "name": "Fern",
+      "company": "@katie_wasserman"
     },
     {
-      othersId: "VRrsMcEESE",
-      img: "https://images.unsplash.com/photo-1597645587822-e99fa5d45d25",
-      name: "Mushrooms",
-      company: "@silverdalex",
-    },
+      "othersId": "VRrsMcEESE",
+      "img": "https://images.unsplash.com/photo-1597645587822-e99fa5d45d25",
+      "name": "Mushrooms",
+      "company": "@silverdalex"
+    }
   ],
-  cardList: [
+  "cardList": [
     {
-      othersId: "m8HmMRHRXi",
-      img: "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
-      created: "2022-09-01"
+      "othersId": "m8HmMRHRXi",
+      "img": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
+      "created": "2022-09-01"
     },
     {
-      othersId: "DHp8dfcDi5",
-      img: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
-      created: "2021-08-02"
+      "othersId": "DHp8dfcDi5",
+      "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+      "created": "2021-08-02"
     }
   ]
 }
