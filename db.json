@@ -1,23 +1,19 @@
 {
   "othersData": {
-    "data": {
-      "company": "株式会社Breakfast",
-      "department": "営業部",
-      "rank": "副部長",
-      "name": "Hoge Huga",
-      "phone": "090-0000-0000",
-      "mail": "hoge@huga.com"
-    }
+    "company": "株式会社Breakfast",
+    "department": "営業部",
+    "rank": "副部長",
+    "name": "Hoge Huga",
+    "phone": "090-0000-0000",
+    "mail": "hoge@huga.com"
   },
   "accountData": {
-    "data": {
-      "company": "株式会社TestUser",
-      "department": "開発部",
-      "rank": "副部長",
-      "name": "Test User",
-      "phone": "090-1234-5678",
-      "mail": "hoge@huga.com"
-    }
+    "company": "株式会社TestUser",
+    "department": "開発部",
+    "rank": "副部長",
+    "name": "Test User",
+    "phone": "090-1234-5678",
+    "mail": "hoge@huga.com"
   },
   "othersList": [
     {
